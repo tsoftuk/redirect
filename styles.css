@@ -20,6 +20,10 @@ header {
   padding: 10px 0;
 }
 
+p {
+  color: black;
+}
+
 .logo {
   display: flex;
   align-items: center;
